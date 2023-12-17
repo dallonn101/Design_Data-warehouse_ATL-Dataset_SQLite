@@ -3,5 +3,5 @@ Hartsfield-Jackson International Airport, perhaps better known as “ATL” for 
 
 Help ATL re-design their database system. Design a database using SQLite with which Hartsfield-Jackson could keep track of its passengers and their flights.
 
-# Solution Design Schema
+# Solution
 check schema.sql
